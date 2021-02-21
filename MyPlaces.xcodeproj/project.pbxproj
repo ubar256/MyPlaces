@@ -15,6 +15,7 @@
 		454EF7F225DBFFFF0061A605 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 454EF7F125DBFFFF0061A605 /* Assets.xcassets */; };
 		454EF7F525DBFFFF0061A605 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 454EF7F325DBFFFF0061A605 /* LaunchScreen.storyboard */; };
 		45A5D8EB25DD9B80007054A3 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45A5D8EA25DD9B80007054A3 /* MainViewController.swift */; };
+		45EDF98425E05900009EB648 /* NewPlaceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45EDF98325E05900009EB648 /* NewPlaceViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		454EF7F425DBFFFF0061A605 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		454EF7F625DBFFFF0061A605 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		45A5D8EA25DD9B80007054A3 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
+		45EDF98325E05900009EB648 /* NewPlaceViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewPlaceViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 			children = (
 				454EF7E825DBFFFE0061A605 /* AppDelegate.swift */,
 				45A5D8EA25DD9B80007054A3 /* MainViewController.swift */,
+				45EDF98325E05900009EB648 /* NewPlaceViewController.swift */,
 				453BE68D25DF1A38004800FA /* PlaceModel.swift */,
 				453BE68A25DF0FCB004800FA /* CustomTableViewCell.swift */,
 				454EF7EA25DBFFFE0061A605 /* SceneDelegate.swift */,
@@ -144,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				45A5D8EB25DD9B80007054A3 /* MainViewController.swift in Sources */,
+				45EDF98425E05900009EB648 /* NewPlaceViewController.swift in Sources */,
 				454EF7E925DBFFFE0061A605 /* AppDelegate.swift in Sources */,
 				453BE68E25DF1A38004800FA /* PlaceModel.swift in Sources */,
 				453BE68B25DF0FCB004800FA /* CustomTableViewCell.swift in Sources */,
